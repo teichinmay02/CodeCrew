@@ -13,7 +13,7 @@ No centralized global Event Reporters
 Cyclone Focused Websites are sparse
 Real-time Cyclone Intensity Estimation
 
-Technologies Used
+Technologies Used<br>
 FrontEnd:
 HTML 
 CSS
