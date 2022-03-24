@@ -26,5 +26,15 @@ Django
 Machine Learning
 Deep Learning and Image Processing
 
+<h3>Team Members</h3>
+<ul>
+  <li>Manav Rupani</li>
+  <li>Aamir Baugwala</li>
+  <li>Vivek Vishvakarma</li>
+  <li>Ali Shaikh</li>
+  <li>Chinmay Teli</li>
+  <li>Sneha Panditpautra</li>
+
+  </ul>
 
 
