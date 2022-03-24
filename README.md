@@ -5,11 +5,13 @@ Development of a deep Convolutional Neural Network (CNN) for Tropical Cyclone in
 Development of CNN based model for intensity estimation will be very useful during the initial stage of cyclone formation when determination of accurate center becomes difficult.
 <a href="https://imgur.com/jc9yh20"><img src="https://i.imgur.com/jc9yh20.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/RnkrQ0U"><img src="https://i.imgur.com/RnkrQ0U.jpg" title="source: imgur.com" /></a>
-Need of solution
-Government sites not so navigable
-No centralized global Event Reporters
-Cyclone Focused Websites are sparse
-Real-time Cyclone Intensity Estimation
+<h3>Need of solution</h3>
+<ol>
+<li>Government sites not so navigable</li>
+<li>No centralized global Event Reporters</li>
+<li>Cyclone Focused Websites are sparse</li>
+<li>Real-time Cyclone Intensity Estimation</li>
+  </ol>
 
 <h2>Technologies Used<br></h2>
 <ul><li>
